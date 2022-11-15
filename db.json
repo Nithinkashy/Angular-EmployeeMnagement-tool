@@ -1,0 +1,22 @@
+{
+  "posts": [],
+  "signupUsers": [
+    {
+      "fullName": "Nithin Kashyap Subramanya",
+      "email": "nithinnsk94@gmail.com",
+      "password": "12345",
+      "mobile": 872057065,
+      "id": 1
+    },
+    {
+      "fullName": "Nithin",
+      "email": "nithin@gmail.com",
+      "password": "12345",
+      "mobile": 94402942022,
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
